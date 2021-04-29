@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>darken</h1>
 
-<!--
-**lynching/lynching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 15
+- cyber sec student
+- united kingdom
 
-Here are some ideas to get you started:
+<h2 align="center">current projects</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- turf stress
+- turf vpn
+- turf ddos protection
+
+<h2 align="center">contact</h2>
+
+- please contact me glucose#1776 (discord varies recommend using another option)
+- email: turfsec@gmail.com
